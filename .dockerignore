@@ -1,0 +1,17 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.env
+venv/
+.env.*
+.DS_Store
+*.mp4
+*.jpg
+*.jpeg
+*.png
+.git/
+.gitignore
